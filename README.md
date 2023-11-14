@@ -10,3 +10,5 @@ Please refer to `models.py` if you want to just look at the changes proposed in 
 To run the experiments use `run_wt15_phase_1.sh` and then `run_wt15_phase_1.sh` for training the models. 
 
 Additionally, all the hyperparameters are presented in the Appendix of the paper.
+
+If you liked the work, please cite it.
