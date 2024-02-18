@@ -9,7 +9,7 @@ We used pytorch version 1.5 for our experiments
 
 Please refer to `models.py` if you want to just look at the changes proposed in the work
 
-To run the experiments use `run_wt15_phase_1.sh` and then `run_wt15_phase_1.sh` for training the models. 
+To run the experiments use `run_wt15_phase_1.sh` and then `run_wt15_phase_2.sh` for training the models. 
 
 Additionally, all the hyperparameters are presented in the Appendix of the paper.
 
